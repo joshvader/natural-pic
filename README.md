@@ -1,13 +1,4 @@
-# React + Vite
+# Desafío - Natural Pic
 
-## Install
 
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
 ```
